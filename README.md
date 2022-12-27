@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=HaEun's%20Github&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=HaEun's%20Github&fontSize=50&fontColor=d93b7d)
 <br>
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
